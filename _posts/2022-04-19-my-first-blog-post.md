@@ -1,8 +1,3 @@
----
-title: "MI-MEDIA-NARANJA"
-date: 2022-04-19
----
-
 # Mi media naranja
 
 #### "Mi media naranja" is a spanish phrase which literally means "my half-orange" but translates to something more like "my better half"
