@@ -5,7 +5,11 @@ author: mapplebliss
 email: mapplebliss@github.com
 description: > # this means to ignore newlines until "baseurl:"
 
-  Hello! Thank you for visiting my blog! Let's learn together!
+  This is a great beginner course. If you're wanting to run your 
+  own blog, personal site, project site, or portfolio, 
+  this is the best course for you. 
+  This is a wonderful course for students, project maintainers, 
+  and small businesses.
 
 # social links
 twitter_username: mapplebliss # DO NOT include the @ character, or else the build will fail!
