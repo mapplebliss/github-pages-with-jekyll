@@ -1,5 +1,3 @@
 ---
-title: "My Cloud Journey"
+title: "Welcome To My Cloud Journey"
 ---
-
-I'm glad you are here.
